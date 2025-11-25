@@ -27,7 +27,12 @@ The model was trained using the **Face Mask Detection Dataset** from Kaggle:
 [https://www.kaggle.com/datasets/andrewmvd/face-mask-detection?utm_source=chatgpt.com&select=images](https://www.kaggle.com/datasets/andrewmvd/face-mask-detection?utm_source=chatgpt.com&select=images)
 
 ---
+📦 Dataset After Training
 
+You can download the processed dataset/model after training from this link:
+https://drive.google.com/file/d/1jPrlJy5mcRDvlyf5DDY-JdyVfDzjT6xw/view?usp=sharing
+
+---
 ## License
 
 This project is **open-source** and free to use.
@@ -38,3 +43,4 @@ This project is **open-source** and free to use.
 
 Developed by **Osama Mohammed AlHajj**  
 GitHub: [https://github.com/OsamaALHajj](https://github.com/OsamaALHajj)
+
