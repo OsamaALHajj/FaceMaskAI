@@ -46,37 +46,64 @@ GitHub: [https://github.com/OsamaALHajj](https://github.com/OsamaALHajj)
 
 <div align="center">
 
-# 📊 Project Statistics
+# 🎭 FaceMaskAI
+
+### AI-Powered Face Mask Detection using PyTorch & Faster R-CNN
+
+<p>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</p>
+
+---
+
+## 📊 Project Statistics
 
 <table>
   <tr>
     <td align="center">
-      <img src="https://img.shields.io/github/downloads/USERNAME/REPO/total?style=for-the-badge&color=brightgreen&logo=github&logoColor=white" />
+      <img src="https://img.shields.io/github/downloads/OsamaALHajj/FaceMaskAI/total?style=for-the-badge&color=brightgreen&logo=github&logoColor=white" />
       <br><b>📥 Total Downloads</b>
     </td>
     <td align="center">
-      <img src="https://komarev.com/ghpvc/?username=USERNAME&style=for-the-badge&color=blueviolet" />
+      <img src="https://komarev.com/ghpvc/?username=OsamaALHajj&style=for-the-badge&color=blueviolet" />
       <br><b>👁️ Profile Views</b>
     </td>
     <td align="center">
-      <img src="https://img.shields.io/github/stars/USERNAME/REPO?style=for-the-badge&color=yellow&logo=github&logoColor=white" />
+      <img src="https://img.shields.io/github/stars/OsamaALHajj/FaceMaskAI?style=for-the-badge&color=yellow&logo=github&logoColor=white" />
       <br><b>⭐ Stars</b>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://img.shields.io/github/forks/USERNAME/REPO?style=for-the-badge&color=blue&logo=github&logoColor=white" />
+      <img src="https://img.shields.io/github/forks/OsamaALHajj/FaceMaskAI?style=for-the-badge&color=blue&logo=github&logoColor=white" />
       <br><b>🍴 Forks</b>
     </td>
     <td align="center">
-      <img src="https://img.shields.io/github/issues/USERNAME/REPO?style=for-the-badge&color=red&logo=github&logoColor=white" />
+      <img src="https://img.shields.io/github/issues/OsamaALHajj/FaceMaskAI?style=for-the-badge&color=red&logo=github&logoColor=white" />
       <br><b>🐛 Open Issues</b>
     </td>
     <td align="center">
-      <img src="https://img.shields.io/github/last-commit/USERNAME/REPO?style=for-the-badge&color=orange&logo=git&logoColor=white" />
+      <img src="https://img.shields.io/github/last-commit/OsamaALHajj/FaceMaskAI?style=for-the-badge&color=orange&logo=git&logoColor=white" />
       <br><b>🕒 Last Commit</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/github/repo-size/OsamaALHajj/FaceMaskAI?style=for-the-badge&color=purple&logo=github&logoColor=white" />
+      <br><b>💾 Repo Size</b>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/github/languages/top/OsamaALHajj/FaceMaskAI?style=for-the-badge&color=informational&logo=python&logoColor=white" />
+      <br><b>🔤 Top Language</b>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/github/contributors/OsamaALHajj/FaceMaskAI?style=for-the-badge&color=teal&logo=github&logoColor=white" />
+      <br><b>👥 Contributors</b>
     </td>
   </tr>
 </table>
 
 </div>
+
