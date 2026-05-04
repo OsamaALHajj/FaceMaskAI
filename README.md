@@ -57,18 +57,19 @@ GitHub: [https://github.com/OsamaALHajj](https://github.com/OsamaALHajj)
 </p>
 
 ---
+<div align="center">
 
 ## 📊 Project Statistics
 
 <table>
   <tr>
     <td align="center">
-      <img src="https://img.shields.io/github/downloads/OsamaALHajj/FaceMaskAI/total?style=for-the-badge&color=brightgreen&logo=github&logoColor=white" />
-      <br><b>📥 Total Downloads</b>
+      <img src="https://img.shields.io/github/languages/code-size/OsamaALHajj/FaceMaskAI?style=for-the-badge&color=brightgreen&logo=github&logoColor=white" />
+      <br><b>📦 Code Size</b>
     </td>
     <td align="center">
-      <img src="https://komarev.com/ghpvc/?username=OsamaALHajj&style=for-the-badge&color=blueviolet" />
-      <br><b>👁️ Profile Views</b>
+      <img src="https://img.shields.io/github/watchers/OsamaALHajj/FaceMaskAI?style=for-the-badge&color=blueviolet&logo=github&logoColor=white" />
+      <br><b>👁️ Watchers</b>
     </td>
     <td align="center">
       <img src="https://img.shields.io/github/stars/OsamaALHajj/FaceMaskAI?style=for-the-badge&color=yellow&logo=github&logoColor=white" />
