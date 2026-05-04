@@ -56,4 +56,11 @@ GitHub: [https://github.com/OsamaALHajj](https://github.com/OsamaALHajj)
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
-
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/github/downloads/OsamaALHajj/FaceMaskAI/total?style=for-the-badge&color=brightgreen&logo=github&logoColor=white" />
+      <br><b>📥 Total Downloads</b>
+    </td>
+  </tr>
+</table>
